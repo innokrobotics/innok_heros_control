@@ -5,8 +5,6 @@ project(innok_heros_control)
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
-  innok_heros_description
-  innok_heros_gazebo
 )
 
 ## System dependencies are found with CMake's conventions
