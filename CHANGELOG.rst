@@ -2,8 +2,8 @@
 Changelog for package innok_heros_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.3 (2015-12-11)
+------------------
 * Fixed CMakeLists.txt
 * Contributors: Sabrina Heerklotz
 
