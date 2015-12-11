@@ -2,8 +2,6 @@ cmake_minimum_required(VERSION 2.8.3)
 project(innok_heros_control)
 
 find_package(catkin REQUIRED COMPONENTS
-  innok_heros_description
-  innok_heros_gazebo
 )
 
 
